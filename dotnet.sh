@@ -24,3 +24,6 @@ sudo apt-get update
 
 # Step 5: Install VSCode
 sudo apt-get install code # or code-insiders
+
+# Step 6: Install Blazor Templates
+dotnet new -i Microsoft.AspNetCore.Blazor.Templates
